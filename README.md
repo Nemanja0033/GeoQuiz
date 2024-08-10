@@ -1,11 +1,15 @@
 <h1>GeoQuiz</h1>
+<hr>
 <h3>GeoQuiz is a geography quiz with 30 questions from the world's geography </h6>
 <h3>Built with Vue JS</h3>
+<hr>
 
 <h2>Features</h2>
+<hr>
 <h3>30 Questions to test you geography knowledge</h3>
 <h3>Score 0/30</h3>
 <h3>Modern UI desing</h3>
+<hr>
 
 <h2>Gallery</h2>
 
