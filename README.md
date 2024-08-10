@@ -1,13 +1,13 @@
 <h1>GeoQuiz</h1>
-<h6>GeoQuiz is a geography quiz with 30 questions from the world's geography </h6>
-<h6>Built with Vue JS</h6>
+<h3>GeoQuiz is a geography quiz with 30 questions from the world's geography </h6>
+<h3>Built with Vue JS</h3>
 
-<h4>Features</h4>
-<h6>30 Questions to test you geography knowledge</h6>
-<h6>Score 0/30</h6>
-<h6>Modern UI desing</h6>
+<h2>Features</h2>
+<h3>30 Questions to test you geography knowledge</h3>
+<h3>Score 0/30</h3>
+<h3>Modern UI desing</h3>
 
-<h4>Gallery</h4>
+<h2>Gallery</h2>
 
 ![1](https://github.com/user-attachments/assets/ead1b441-c3dd-4cab-8a2d-f9c548a89fcb)
 
